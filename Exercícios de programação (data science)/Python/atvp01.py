@@ -1,0 +1,7 @@
+print('Ferver a água')
+print('Pôr o pó de café na água')
+print('Misturar com uma colher o pó na água para dissolvê-lo')
+print('Passar a mistura no filtro do café')
+print('Adicionar açúcar ou adoçante')
+print('Por na xícara')
+print('Depois Beber')
